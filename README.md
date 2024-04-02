@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Abhishek!</h1>
-<h3 align="center">I am a passionate Backend Developer and a Competitive Programmer. Few technologies that I currently enjoy working with are Spring, Java, C++ and MySQL. I am actively looking for intern and full-time opportunities.</h3>
+<h3 align="center">I am a passionate Frontend Developer and a Competitive Programmer. Few technologies that I currently enjoy working with are ReactJS, TailwindCSS, etc . I am actively looking for working collaboratively on open-source projects and full-time opportunities.</h3>
 
-- 🔭 I’m currently working on upgrading my CRUD project [Web Customer Tracker](https://github.com/iashek/web-customer-tracker)
+- 🔭 I’m currently working on adding features and optimizing my current projects [Netflix-GPT]([url](https://github.com/iashek/Netflix-GPT)) and [YT-Clone]([url](https://github.com/iashek/YT-Clone)).
 
-- 💬 Ask me about **Spring and Java**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **abhisheksingh.g07@gmail.com**
 
